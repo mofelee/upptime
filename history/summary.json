@@ -4,10 +4,10 @@
     "url": "https://status.mofe.io",
     "icon": "https://favicons.githubusercontent.com/status.mofe.io",
     "slug": "status-mofe-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
     "time": 1392,
@@ -16,7 +16,7 @@
     "timeMonth": 1404,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2022-05-12": 19,
+      "2022-05-12": 17,
       "2022-04-29": 17,
       "2022-04-09": 19,
       "2022-04-03": 26
