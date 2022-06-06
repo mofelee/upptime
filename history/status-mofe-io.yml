@@ -1,7 +1,7 @@
 url: https://status.mofe.io
-status: up
-code: 200
-responseTime: 1936
-lastUpdated: 2022-06-06T05:23:59.234Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-06-06T07:32:25.669Z
 startTime: Thu Mar 31 2022 09:06:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
