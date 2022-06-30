@@ -4,7 +4,7 @@
     "url": "https://status.mofe.io",
     "icon": "https://favicons.githubusercontent.com/status.mofe.io",
     "slug": "status-mofe-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "75.02%",
     "uptimeWeek": "95.51%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.05%",
     "time": 1455,
     "timeDay": 1372,
-    "timeWeek": 1405,
+    "timeWeek": 1404,
     "timeMonth": 1503,
     "timeYear": 1455,
     "dailyMinutesDown": {
