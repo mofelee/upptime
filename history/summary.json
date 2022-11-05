@@ -4,12 +4,12 @@
     "url": "https://status.mofe.io",
     "icon": "https://icons.duckduckgo.com/ip3/status.mofe.io.ico",
     "slug": "status-mofe-io",
-    "status": "up",
-    "uptime": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
     "uptimeDay": "96.69%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 1670,
     "timeDay": 1341,
     "timeWeek": 1411,
@@ -90,8 +90,7 @@
       "2022-06-17": 66,
       "2022-06-14": 46,
       "2022-06-12": 23,
-      "2022-06-10": 75,
-      "2022-06-07": 35
+      "2022-06-10": 75
     }
   }
 ]
