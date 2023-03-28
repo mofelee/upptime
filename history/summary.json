@@ -4,18 +4,19 @@
     "url": "https://status.mofe.io",
     "icon": "https://icons.duckduckgo.com/ip3/status.mofe.io.ico",
     "slug": "status-mofe-io",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.44%",
     "time": 1666,
-    "timeDay": 1567,
+    "timeDay": 1575,
     "timeWeek": 1593,
-    "timeMonth": 2309,
+    "timeMonth": 2041,
     "timeYear": 1666,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2023-03-02": 23,
       "2023-02-28": 24,
       "2023-02-22": 21,
@@ -91,8 +92,7 @@
       "2022-07-07": 102,
       "2022-07-06": 1,
       "2022-07-05": 30,
-      "2022-07-04": 17,
-      "2022-07-03": 24
+      "2022-07-04": 17
     }
   }
 ]
