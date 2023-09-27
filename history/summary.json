@@ -6,15 +6,15 @@
     "slug": "status-mofe-io",
     "status": "up",
     "uptime": "95.74%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "96.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.46%",
     "uptimeMonth": "98.69%",
-    "uptimeYear": "93.83%",
-    "time": 2027,
-    "timeDay": 1856,
-    "timeWeek": 2678,
-    "timeMonth": 2990,
-    "timeYear": 2029,
+    "uptimeYear": "93.84%",
+    "time": 2026,
+    "timeDay": 1263,
+    "timeWeek": 2748,
+    "timeMonth": 2988,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2023-09-25": 34,
       "2023-09-24": 43,
@@ -81,8 +81,7 @@
       "2022-10-08": 48,
       "2022-10-05": 30,
       "2022-10-04": 16,
-      "2022-09-29": 17,
-      "2022-09-27": 31
+      "2022-09-29": 17
     }
   }
 ]
