@@ -6,8 +6,8 @@
     "slug": "status-mofe-io",
     "status": "up",
     "uptime": "96.50%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.04%",
     "time": 2275,
@@ -16,7 +16,6 @@
     "timeMonth": 2042,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2024-01-21": 1,
       "2023-12-06": 23,
       "2023-12-05": 25,
       "2023-10-13": 40,
